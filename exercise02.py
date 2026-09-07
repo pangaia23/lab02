@@ -18,5 +18,6 @@ euler_number_squared = pow(e, 2)
 print(f"Euler's Number Squared via math.pow: {euler_number_squared:>53.32f}")
 euler_number_squared = exp(2)
 print(f"Euler's Number Squared via math.exp: {euler_number_squared:>53.32f}")
+#:)
 
 
